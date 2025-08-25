@@ -3,6 +3,11 @@
 # This function should print "Hello, World!" to the screen.
 def hello_world():
     # TODO: Implement this function
+      # TODO: Implement this function
+        # TODO: Implement this function
+          # TODO: Implement this function
+            # TODO: Implement this function
+              # TODO: Implement this function
     pass  # Replace with your code
 
 # Function 2: Get input and output with different variable types
