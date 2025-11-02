@@ -8,14 +8,14 @@ This template repository is the starter project for the Programming in Science P
 
 # Project evaluation criteria
  The following criteria are considered in the evaluation of the project:
- · Correct implementation of algorithms
- · Correct validation of inputs
- · Well-formatted and understandable code
- · Appropriate use of language constructs
- · The program executes without errors
- · The program provides the planned features
+ ## · Correct implementation of algorithms
+ ## · Correct validation of inputs
+ ## · Well-formatted and understandable code
+ ## · Appropriate use of language constructs
+ ## · The program executes without errors
+ ## · The program provides the planned features
 
- · Report:
+ ## · Report:
  o Proper documentation of the implementation effort
  o Proper presentation of the data
 
@@ -56,6 +56,7 @@ For this project, you are provided with the `mathematics.csv` file containing a 
 ### Run Command
 
 `pytest`
+
 
 
 
