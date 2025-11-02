@@ -1,8 +1,25 @@
-# Programming in Science - Project
+# Programming in Science - LIA Project
 
-This template repository is the starter project for the Programming in Science Project. Written in Python and tested with Pytest.
+This template repository is the starter project for the Programming in Science Project.
+1. Group of 2 or 3 students are allowed to work on a project as assigned by the teacher
+2. Consult teacher for all available options for your project
+3. Each student will be marked on his/her contribution in the project
+4. Each student in each group is REQUIRED to present their work in a 10-15 minutes group presentation at the last week of class (Dec 8th to Dec 11th)
 
-## Project: Data Visualization
+# Project evaluation criteria
+## The following criteria are considered in the evaluation of the project:
+### · Correct implementation of algorithms
+### · Correct validation of inputs
+### · Well-formatted and understandable code
+### · Appropriate use of language constructs
+### · The program executes without errors
+### · The program provides the planned features
+
+## · Report:
+#### o Proper documentation of the implementation effort
+#### o Proper presentation of the data
+
+## Sample Project: Data Visualization (see the available list of projects from the teacher)
 
 For this project, you are provided with the `mathematics.csv` file containing a dataset that includes values of `x` and their corresponding `y` values based on the equation `y = x^2`. Additionally, a `logarithm_noisy.csv` dataset has been provided, which contains logarithmic values with added white noise. Your task is to analyze this data and create various visualizations following these instructions:
 
@@ -39,4 +56,5 @@ For this project, you are provided with the `mathematics.csv` file containing a 
 ### Run Command
 
 `pytest`
+
 
